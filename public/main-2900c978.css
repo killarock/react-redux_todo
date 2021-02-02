@@ -1,0 +1,6 @@
+.modal{left:50%;top:20%;transform:translateX(-50%);max-width:600px;display:block !important;color:#000}
+
+.btn-edit{margin-right:5px}.todos-list-caption{text-align:center;margin:10px}.todos-list{padding:0;padding-top:30px}.todos-list li{display:flex;align-items:baseline;margin-bottom:30px;border:1px solid #000}.todos-list .btn:not(:last-child){margin-right:15px}.todos-list .controls{margin-left:auto}
+
+
+/*# sourceMappingURL=main-2900c978.css.map*/

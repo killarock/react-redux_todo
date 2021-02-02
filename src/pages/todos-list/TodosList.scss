@@ -1,0 +1,29 @@
+.btn-edit {
+    margin-right: 5px;
+}
+
+.todos-list-caption {
+    text-align: center;
+    margin: 10px;
+}
+
+.todos-list {
+    padding: 0;
+    padding-top: 30px;
+    li {
+        display: flex;
+        align-items: baseline;
+        margin-bottom: 30px;
+        border: 1px solid #000;
+    }
+
+    .btn {
+        &:not(:last-child) {
+            margin-right: 15px;
+        }
+    }
+
+    .controls {
+        margin-left: auto;
+    }
+}
